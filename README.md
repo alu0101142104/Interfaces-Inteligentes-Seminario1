@@ -3,7 +3,7 @@
 1. Qué funciones se pueden usar en los scripts de Unity para llevar a cabo traslaciones, rotaciones y escalados.
     
     Para mover un objeto:
-    Lo havemos en cualquiera de sus tres ejes con la propiedad **`Translate`**
+    Lo hacemos en cualquiera de sus tres ejes con la propiedad **`Translate`**
     `Vector3 movimiento = new Vector3(3, 0.0f, 2);
      transform.translate(movimiento * Time.deltaTime * velocidad);`
     En **`movimiento`** almacenamos la nueva posición, **`deltaTime`** calcula el tiempo necesario para alcanzar la nueva posición, y `**velocidad**` es la velocidad a la que nos movemos.

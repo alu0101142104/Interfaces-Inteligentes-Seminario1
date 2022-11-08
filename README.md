@@ -1,7 +1,4 @@
-# Interfaces-Inteligentes-Seminario1
 ## Mundos virtuales. Introducción a la programación de gráficos 3D.
-
-# Mundos virtuales. Introducción a la programación de gráficos 3D.
 
 1. Qué funciones se pueden usar en los scripts de Unity para llevar a cabo traslaciones, rotaciones y escalados.
     
